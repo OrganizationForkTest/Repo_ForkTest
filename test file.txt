@@ -50,5 +50,11 @@ $ git add .
 $ git commit -m "new commit after pull request"
 $ git push origin myrepo2
 
+/* pull request 이후 해당 branch 에 새 commit 시, pull request 에 commit 이 누적하여 보여진다. */
+$ git add .
+$ git commit -m "second commit after pull request"
+$ git push origin myrepo2
+
+
 
 
