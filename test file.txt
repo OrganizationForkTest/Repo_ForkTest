@@ -45,8 +45,10 @@ $ git push origin myrepo2
 > OrganizationForkTest/Repo_ForkTest main 브랜치 <- clintkslee/Repo_ForkTest myrepo2 브랜치
 /* 여기까지가 pull request 할 때 까지 추가된 내용 */
 
-
-
+/* 이하 내용은 pull request 후 새 commit 위해 작성된 내용 */
+$ git add .
+$ git commit -m "new commit after pull request"
+$ git push origin myrepo2
 
 
 
