@@ -3,3 +3,10 @@ $ git add .
 $ git commit "local -> remote"
 $ git push
 *	*	*	*	*	*	*	
+
+2. Github Desktop
+> clone Repo_ForkTest
+> edit test file.txt
+> commit "Github Desktop : Update test file.txt"
+> push
+*	*	*	*	*	*	*	
