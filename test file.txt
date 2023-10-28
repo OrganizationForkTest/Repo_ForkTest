@@ -1,0 +1,5 @@
+1. Git Bash : local -> remote : Repo_ForkTest
+$ git add .
+$ git commit "local -> remote"
+$ git push
+*	*	*	*	*	*	*	
