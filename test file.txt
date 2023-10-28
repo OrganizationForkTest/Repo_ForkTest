@@ -10,3 +10,22 @@ $ git push
 > commit "Github Desktop : Update test file.txt"
 > push
 *	*	*	*	*	*	*	
+
+3-1. Fork
+> 내 원격저장소로 포크
+> Fork : organization -> clintkslee
+
+> 로컬로 클론
+$ git clone https://github.com/clintkslee/Repo_ForkTest.git
+
+> 로컬에서 새 브랜치 생성 및 파일에 내용 추가
+$ git checkout -b myrepo
+
+> 내 원격저장소에 푸쉬 (원격 저장소에 동명의 브랜치 생성)
+$ git add .
+$ git commit -m "fork"
+$ git push origin myrepo
+
+> organization 풀 리퀘스트 생성
+> OrganizationForkTest/Repo_ForkTest main 브랜치 <- clintkslee/Repo_ForkTest myrepo 브랜치
+*	*	*	*	*	*	*	
