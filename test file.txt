@@ -59,5 +59,6 @@ $ git push origin myrepo2
 > fork 한 저장소 clone
 > 첫번 째 commit 
 > 두번 째 commit
+> 세번 째 commit
 
 
