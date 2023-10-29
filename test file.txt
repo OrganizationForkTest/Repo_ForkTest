@@ -60,5 +60,5 @@ $ git push origin myrepo2
 > 첫번 째 commit 
 > 두번 째 commit
 > 세번 째 commit
-
+> OrganizationForkTest/Repo_ForkTest 에 PR 후 확인해보니 세 개의 commit 모두 남아있다.
 
