@@ -58,5 +58,6 @@ $ git push origin myrepo2
 3-3. 여러 번 commit 후 PR 시 PR에 commit 들이 누적되어 있나 확인
 > fork 한 저장소 clone
 > 첫번 째 commit 
+> 두번 째 commit
 
 
