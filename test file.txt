@@ -55,6 +55,10 @@ $ git add .
 $ git commit -m "second commit after pull request"
 $ git push origin myrepo2
 
-
-
+3-3. 여러 번 commit 후 PR 시 PR에 commit 들이 누적되어 있나 확인
+> fork 한 저장소 clone
+> 첫번 째 commit 
+> 두번 째 commit
+> 세번 째 commit
+> OrganizationForkTest/Repo_ForkTest 에 PR 후 확인해보니 세 개의 commit 모두 남아있다.
 
